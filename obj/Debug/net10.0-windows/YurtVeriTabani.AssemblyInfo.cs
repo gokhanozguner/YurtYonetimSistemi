@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YurtVeriTabani")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be2f878bac6e59fd1761b84804f994672c5a8f14")]
 [assembly: System.Reflection.AssemblyProductAttribute("YurtVeriTabani")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YurtVeriTabani")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
